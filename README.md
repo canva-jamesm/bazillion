@@ -23,6 +23,18 @@ Repository URL:
 https://raw.githubusercontent.com/SerCeMan/bazillion/master/updatePlugins.xml
 ```
 
+## Project Loading
+
+The load your project using Bazillion, you'll need to open an existing project or create a new one so you can see the "File" menu. The welcome screen doesn't have the functionality to load a Bazil project. Once you've done that, open a project from existing sources
+
+![image](https://user-images.githubusercontent.com/55791582/81141004-a0053a00-8fae-11ea-9b21-31c7c184de4b.png)
+
+Then navigate to the canva/canva repository and click "Open". Afterwards, select "Bazil" from the possible configurations and "Import".
+
+![image](https://user-images.githubusercontent.com/55791582/81141299-8e706200-8faf-11ea-8ce0-c7c650f195f6.png)
+
+Then you just have to wait for the initial download and indexing and you're good to go!
+
 ## Current status
 
 This plugin is in alpha stage.
